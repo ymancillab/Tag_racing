@@ -1,0 +1,1791 @@
+﻿Log file open, 05/30/20 11:17:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Golpe1973
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.068228
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=diazcasanova -epicuserid=7a911832c6d0456dafc20aaee4c94572 -epiclocale=es
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Engine.ini]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.05.30-15.17.40:192][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Engine.ini]
+[2020.05.30-15.17.40:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Engine.ini]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Engine.ini]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.30-15.17.40:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Engine.ini]
+[2020.05.30-15.17.40:193][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Engine.ini]
+[2020.05.30-15.17.40:195][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Scalability.ini]
+[2020.05.30-15.17.40:195][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.30-15.17.40:195][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.30-15.17.40:195][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Scalability.ini]
+[2020.05.30-15.17.40:195][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.30-15.17.40:195][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Scalability.ini]
+[2020.05.30-15.17.40:195][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.30-15.17.40:195][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.30-15.17.40:195][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Scalability.ini]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Scalability.ini]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Scalability.ini]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Scalability.ini]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.30-15.17.40:196][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.30-15.17.40:196][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.30-15.17.40:196][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.30-15.17.41:125][  0]LogHAL: Display: Platform has ~ 16 GB [17014509568 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.30-15.17.41:125][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.30-15.17.41:125][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Scalability.ini]
+[2020.05.30-15.17.41:125][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.30-15.17.41:125][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.05.30-15.17.41:125][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Scalability.ini]
+[2020.05.30-15.17.41:125][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.30-15.17.41:125][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Scalability.ini]
+[2020.05.30-15.17.41:125][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.30-15.17.41:125][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.30-15.17.41:125][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.05.30-15.17.41:125][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.05.30-15.17.41:125][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.30-15.17.41:125][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Scalability.ini]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Scalability.ini]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Scalability.ini]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Scalability.ini]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2020.05.30-15.17.41:126][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.30-15.17.41:127][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.30-15.17.41:127][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.30-15.17.41:127][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Config/Windows/Engine.ini]
+[2020.05.30-15.17.41:127][  0]LogInit: Computer: LAPTOP-P7ANQ30F
+[2020.05.30-15.17.41:127][  0]LogInit: User: diaza
+[2020.05.30-15.17.41:127][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.30-15.17.41:127][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.30-15.17.41:127][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.05.30-15.17.41:127][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.30-15.17.41:127][  0]LogMemory: Process Physical Memory: 101.23 MB used, 101.23 MB peak
+[2020.05.30-15.17.41:127][  0]LogMemory: Process Virtual Memory: 100.94 MB used, 100.94 MB peak
+[2020.05.30-15.17.41:127][  0]LogMemory: Physical Memory: 6972.29 MB used,  9254.01 MB free, 16226.30 MB total
+[2020.05.30-15.17.41:127][  0]LogMemory: Virtual Memory: 4669.45 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.05.30-15.17.41:130][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.30-15.17.41:157][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.05.30-15.17.41:157][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.05.30-15.17.41:345][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.30-15.17.41:378][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.30-15.17.41:378][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.30-15.17.41:573][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.30-15.17.41:573][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.30-15.17.41:625][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.05.30-15.17.41:625][  0]LogD3D11RHI:       4029/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.30-15.17.41:637][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.05.30-15.17.41:637][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.30-15.17.41:639][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.30-15.17.41:639][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.30-15.17.41:639][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.30-15.17.41:668][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.30-15.17.41:668][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.05.30-15.17.41:668][  0]LogWindows: EnumDisplayDevices:
+[2020.05.30-15.17.41:668][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.05.30-15.17.41:669][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.30-15.17.41:669][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.30-15.17.41:669][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.05.30-15.17.41:669][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.05.30-15.17.41:669][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.05.30-15.17.41:669][  0]LogD3D11RHI:   Driver Version: 388.73 (internal:23.21.13.8873, unified:388.73)
+[2020.05.30-15.17.41:669][  0]LogD3D11RHI:      Driver Date: 12-18-2017
+[2020.05.30-15.17.41:669][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2020.05.30-15.17.41:696][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.30-15.17.41:708][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.30-15.17.41:988][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.30-15.17.41:996][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.30-15.17.42:005][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.30-15.17.42:013][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.30-15.17.42:022][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.30-15.17.42:029][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.30-15.17.42:038][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.30-15.17.42:046][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.30-15.17.42:050][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.30-15.17.42:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.30-15.17.42:083][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.30-15.17.42:099][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.30-15.17.42:099][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.30-15.17.42:112][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.30-15.17.42:112][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.30-15.17.42:119][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.30-15.17.42:126][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.30-15.17.42:132][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.30-15.17.42:140][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.30-15.17.42:162][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.30-15.17.42:162][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.30-15.17.42:162][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.30-15.17.42:173][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.30-15.17.42:227][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Intermediate/Shaders/WorkingDirectory/10628/).
+[2020.05.30-15.17.42:227][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/diaza/AppData/Local/Temp/UnrealShaderWorkingDir/50F909544F458515976EC1AB4C1AFBE8/'.
+[2020.05.30-15.17.42:230][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.30-15.17.42:230][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.30-15.17.42:230][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.30-15.17.42:769][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.30-15.17.43:025][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/diaza/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.05.30-15.17.43:025][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/diaza/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.05.30-15.17.43:025][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.30-15.17.43:025][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.30-15.17.43:025][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.30-15.17.43:025][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.30-15.17.43:036][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.30-15.17.43:036][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.30-15.17.43:036][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.30-15.17.43:038][  0]LogDerivedDataCache: Using Local data cache path C:/Users/diaza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.30-15.17.43:038][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.30-15.17.43:038][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.30-15.17.43:059][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.30-15.17.43:061][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.30-15.17.43:061][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.30-15.17.43:112][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.05.30-15.17.43:355][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.30-15.17.43:487][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.30-15.17.43:487][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.30-15.17.43:487][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.30-15.17.43:487][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.30-15.17.43:487][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.30-15.17.43:495][  0]LogNetVersion: Golpe1973 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1433015652)
+[2020.05.30-15.17.43:863][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.055871 seconds
+[2020.05.30-15.17.43:869][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.05.30-15.17.43:869][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.05.30-15.17.43:869][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.30-15.17.45:509][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.30-15.17.45:511][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.30-15.17.45:568][  0]SourceControl: Source control is disabled
+[2020.05.30-15.17.45:568][  0]SourceControl: Source control is disabled
+[2020.05.30-15.17.45:570][  0]SourceControl: Source control is disabled
+[2020.05.30-15.17.45:571][  0]SourceControl: Source control is disabled
+[2020.05.30-15.17.45:580][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.30-15.17.45:581][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.30-15.17.45:669][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.30-15.17.45:752][  0]LogOcInput: OculusInput pre-init called
+[2020.05.30-15.17.45:758][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.30-15.17.45:758][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.30-15.17.45:820][  0]LogEngine: Initializing Engine...
+[2020.05.30-15.17.45:820][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.30-15.17.45:821][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.30-15.17.46:008][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.30-15.17.46:022][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.30-15.17.46:028][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.30-15.17.46:050][  0]LogInit: FAudioDevice initialized.
+[2020.05.30-15.17.46:050][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.30-15.17.46:197][  0]LogDerivedDataCache: Saved boot cache 0.15s 73MB C:/Users/diaza/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.05.30-15.17.46:199][  0]LogInit: Texture streaming: Enabled
+[2020.05.30-15.17.46:221][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.30-15.17.46:221][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.30-15.17.46:224][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.30-15.17.46:293][  0]LogInit: Transaction tracking system initialized
+[2020.05.30-15.17.46:322][  0]BlueprintLog: New page: Editor Load
+[2020.05.30-15.17.46:398][  0]LocalizationService: Localization service is disabled
+[2020.05.30-15.17.46:460][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.30-15.17.46:460][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.30-15.17.46:615][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/' took 0.01s
+[2020.05.30-15.17.46:615][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.30-15.17.46:616][  0]LogCook: Display: Mobile HDR setting 0
+[2020.05.30-15.17.46:791][  0]SourceControl: Source control is disabled
+[2020.05.30-15.17.46:791][  0]Cmd: MAP LOAD FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.30-15.17.46:792][  0]LightingResults: New page: Lighting Build
+[2020.05.30-15.17.46:794][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-15.17.46:795][  0]MapCheck: New page: Map Check
+[2020.05.30-15.17.46:795][  0]LightingResults: New page: Lighting Build
+[2020.05.30-15.17.46:821][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.05.30-15.17.49:236][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.05.30-15.17.49:267][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.30-15.17.49:292][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.05.30-15.17.49:292][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.30-15.17.49:292][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.193ms to complete.
+[2020.05.30-15.17.49:292][  0]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 2.500
+[2020.05.30-15.17.49:505][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.30-15.17.49:513][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.30-15.17.49:519][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.30-15.17.49:525][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.30-15.17.49:568][  0]LogCollectionManager: Loaded 0 collections in 0.001769 seconds
+[2020.05.30-15.17.49:577][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Collections/' took 0.00s
+[2020.05.30-15.17.49:577][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Developers/diaza/Collections/' took 0.00s
+[2020.05.30-15.17.49:577][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Collections/' took 0.00s
+[2020.05.30-15.17.49:577][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.05.30-15.17.49:585][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2865 classes and 683 folders.
+[2020.05.30-15.17.49:598][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.30-15.17.49:916][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.30-15.17.49:921][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.05.30-15.17.50:157][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.30-15.17.50:159][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.30-15.17.50:165][  0]LogSlate: Took 0.000965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.30-15.17.50:225][  0]LogRenderer: Reallocating scene render targets to support 720x388 Format 9 NumSamples 1 (Frame:1).
+[2020.05.30-15.17.50:374][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.30-15.17.50:374][  0]LogLoad: (Engine Initialization) Total time: 11.30 seconds
+[2020.05.30-15.17.50:374][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.30-15.17.50:552][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2020.05.30-15.17.50:552][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2020.05.30-15.17.50:552][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2020.05.30-15.17.50:553][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2020.05.30-15.17.50:553][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2020.05.30-15.17.50:605][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.05.30-15.17.50:619][  0]LogSlate: Took 0.000543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.30-15.17.50:651][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/' took 0.10s
+[2020.05.30-15.17.50:682][  1]LogAssetRegistry: Asset discovery search completed in 7.5704 seconds
+[2020.05.30-15.17.50:685][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.05.30-15.17.50:685][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2020.05.30-15.17.53:579][151]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.30-15.17.53:635][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.20.43:794][893]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SPLine/SPLine.SPLine
+[2020.05.30-15.20.44:351][893]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.05.30-15.20.45:553][893]LogSlate: Took 0.031616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.30-15.20.49:445][112]LogSlate: Window 'SPLine' being destroyed
+[2020.05.30-15.20.49:470][112]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-15.20.54:515][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.30-15.22.08:146][473]LogMaterial: Display: Material /Game/VehicleAdv/Materials/MasterGrid.MasterGrid needed to have new flag set bUsedWithSplineMeshes !
+[2020.05.30-15.22.08:148][473]LogMaterial: Display: Missing cached shader map for material MasterGrid, compiling. 
+[2020.05.30-15.22.09:776][473]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 59
+[2020.05.30-15.22.09:776][473]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2020.05.30-15.22.09:776][473]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2020.05.30-15.22.09:776][473]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2020.05.30-15.22.12:651][604]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.05.30-15.22.12:734][608]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.05.30-15.22.13:955][667]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.05.30-15.22.14:128][676]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.05.30-15.22.14:390][689]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.05.30-15.22.14:411][690]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.05.30-15.22.14:786][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.05.30-15.22.14:906][715]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.05.30-15.22.17:189][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.22.27:584][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.26.13:819][500]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-15.26.15:756][610]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-15.26.23:369][ 58]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x400)
+[2020.05.30-15.26.23:599][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-15.26.29:619][410]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-15.26.51:865][742]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={D1079EF6-4953-FB15-0D2B-8CAC01478BB3}
+[2020.05.30-15.26.54:241][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.27.08:407][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.27.30:916][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.27.51:878][188]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={94FC9805-4734-18A1-2AAA-DA8118CF914E}
+[2020.05.30-15.27.54:642][353]Cmd: TRANSACTION UNDO
+[2020.05.30-15.27.54:642][353]LogEditorTransaction: Undo Move Actors
+[2020.05.30-15.27.56:106][430]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-15.27.59:571][635]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-15.28.01:438][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.28.08:019][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.28.25:563][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2020.05.30-15.28.28:196][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.28.32:294][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.28.37:158][891]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-15.29.16:945][271]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-15.29.18:080][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.29.52:032][848]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.05.30-15.29.52:294][848]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/VehicleAdvExampleMap_Auto13F651BD6428CCBFCA4F15B82F32895D7.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto1.umap'
+[2020.05.30-15.29.52:300][848]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.309
+[2020.05.30-15.29.52:300][848]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.309
+[2020.05.30-15.29.52:302][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdv/Materials/MasterGrid] ([1] browsable assets)...
+[2020.05.30-15.29.52:412][848]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VehicleAdv/Materials/MasterGrid.MasterGrid]
+[2020.05.30-15.29.52:412][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdv/Materials/MasterGrid]
+[2020.05.30-15.29.52:435][848]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/MasterGrid_Auto1B2E070F34FB9715A6E09C498A714D8A1.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/VehicleAdv/Materials/MasterGrid_Auto1.uasset'
+[2020.05.30-15.29.52:437][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdv/Materials/MaterialInstances/RedGrid] ([1] browsable assets)...
+[2020.05.30-15.29.52:458][848]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/VehicleAdv/Materials/MaterialInstances/RedGrid.RedGrid]
+[2020.05.30-15.29.52:458][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdv/Materials/MaterialInstances/RedGrid]
+[2020.05.30-15.29.52:480][848]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/RedGrid_Auto12FB5CB054ECFAC01D86829A0AF25B54B.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/VehicleAdv/Materials/MaterialInstances/RedGrid_Auto1.uasset'
+[2020.05.30-15.29.52:481][848]LogFileHelpers: Auto-saving content packages took 0.179
+[2020.05.30-15.30.53:282][207]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-15.31.20:743][856]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-15.31.24:735][ 96]Cmd: TRANSACTION UNDO
+[2020.05.30-15.31.24:735][ 96]LogEditorTransaction: Undo Clicking on Actors
+[2020.05.30-15.31.25:206][114]Cmd: TRANSACTION UNDO
+[2020.05.30-15.31.25:206][114]LogEditorTransaction: Undo Select Brush Surface
+[2020.05.30-15.31.25:753][146]Cmd: TRANSACTION UNDO
+[2020.05.30-15.31.25:753][146]LogEditorTransaction: Undo Move Actors
+[2020.05.30-15.33.11:016][460]Cmd: TRANSACTION UNDO
+[2020.05.30-15.33.11:016][460]LogEditorTransaction: Undo Move Actors
+[2020.05.30-15.33.11:799][496]Cmd: TRANSACTION UNDO
+[2020.05.30-15.33.11:799][496]LogEditorTransaction: Undo Move Actors
+[2020.05.30-15.33.17:405][827]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.30-15.33.21:604][ 65]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-15.33.24:463][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.33.30:110][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.34.03:582][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.34.13:346][162]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-15.34.15:762][307]Cmd: DELETE
+[2020.05.30-15.34.15:762][307]Cmd: ACTOR DELETE
+[2020.05.30-15.34.16:976][307]LogEditorActor: Deleted Actor: SPLine_C
+[2020.05.30-15.34.17:013][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.05.30-15.34.17:014][307]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.05.30-15.34.18:202][365]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-15.34.26:659][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.34.27:166][871]AssetReimport: New page: Outstanding source content changes 7:34:26 AM
+[2020.05.30-15.34.27:183][872]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_1.png)
+[2020.05.30-15.34.27:270][873]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_10.png)
+[2020.05.30-15.34.27:277][873]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_11.png)
+[2020.05.30-15.34.27:310][874]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_12.png)
+[2020.05.30-15.34.27:514][875]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_13.png)
+[2020.05.30-15.34.27:523][875]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_14.png)
+[2020.05.30-15.34.27:566][876]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_15.png)
+[2020.05.30-15.34.27:611][877]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_16.png)
+[2020.05.30-15.34.27:644][878]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_17.png)
+[2020.05.30-15.34.27:652][878]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_18.png)
+[2020.05.30-15.34.27:682][879]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_19.png)
+[2020.05.30-15.34.27:690][879]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_20.png)
+[2020.05.30-15.34.27:721][880]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_21.png)
+[2020.05.30-15.34.27:729][880]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_22.png)
+[2020.05.30-15.34.27:737][880]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_23.png)
+[2020.05.30-15.34.27:832][881]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_24.png)
+[2020.05.30-15.34.27:858][882]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_25.png)
+[2020.05.30-15.34.27:870][882]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_26.png)
+[2020.05.30-15.34.27:919][883]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_27.png)
+[2020.05.30-15.34.27:932][883]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_28.png)
+[2020.05.30-15.34.27:963][884]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_29.png)
+[2020.05.30-15.34.28:017][885]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_3.png)
+[2020.05.30-15.34.28:025][885]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_4.png)
+[2020.05.30-15.34.28:033][885]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_5.png)
+[2020.05.30-15.34.28:050][886]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_6.png)
+[2020.05.30-15.34.28:057][886]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_7.png)
+[2020.05.30-15.34.28:064][886]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_8.png)
+[2020.05.30-15.34.28:136][887]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/_9.png)
+[2020.05.30-15.34.28:181][887]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/1.jpg]
+[2020.05.30-15.34.28:181][887]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/1.jpg)
+[2020.05.30-15.34.28:189][887]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.28:205][888]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/2.png]
+[2020.05.30-15.34.28:205][888]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/2.png)
+[2020.05.30-15.34.28:226][888]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.28:262][889]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/20.jpg]
+[2020.05.30-15.34.28:262][889]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/20.jpg)
+[2020.05.30-15.34.28:276][889]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.28:289][890]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/20_1.jpg]
+[2020.05.30-15.34.28:289][890]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/20_1.jpg)
+[2020.05.30-15.34.28:300][890]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.28:311][890]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/29.jpg]
+[2020.05.30-15.34.28:312][890]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/29.jpg)
+[2020.05.30-15.34.28:354][890]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.28:371][891]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/30.png]
+[2020.05.30-15.34.28:372][891]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/30.png)
+[2020.05.30-15.34.28:398][891]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.28:408][892]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/4.jpg]
+[2020.05.30-15.34.28:409][892]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/4.jpg)
+[2020.05.30-15.34.28:415][892]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.28:418][892]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/5.jpg]
+[2020.05.30-15.34.28:418][892]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/5.jpg)
+[2020.05.30-15.34.28:424][892]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.28:463][893]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Balaustr.png]
+[2020.05.30-15.34.28:463][893]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Balaustr.png)
+[2020.05.30-15.34.28:467][893]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.28:471][893]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachad01.png]
+[2020.05.30-15.34.28:472][893]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachad01.png)
+[2020.05.30-15.34.28:961][893]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.28:976][894]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachad02.png]
+[2020.05.30-15.34.28:977][894]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachad02.png)
+[2020.05.30-15.34.29:456][894]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.29:468][895]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachad03.png]
+[2020.05.30-15.34.29:469][895]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachad03.png)
+[2020.05.30-15.34.29:486][895]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.29:499][896]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachada.png]
+[2020.05.30-15.34.29:499][896]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachada.png)
+[2020.05.30-15.34.29:536][896]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.29:547][897]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachada_.png]
+[2020.05.30-15.34.29:549][897]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachada_.png)
+[2020.05.30-15.34.30:557][897]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.30:568][898]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Google_E.jpg]
+[2020.05.30-15.34.30:568][898]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Google_E.jpg)
+[2020.05.30-15.34.30:580][898]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.30:583][898]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Morande_.png]
+[2020.05.30-15.34.30:585][898]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Morande_.png)
+[2020.05.30-15.34.31:124][898]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.31:211][899]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patios01.jpg]
+[2020.05.30-15.34.31:213][899]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patios01.jpg)
+[2020.05.30-15.34.31:369][899]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.31:386][900]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patios_C.png]
+[2020.05.30-15.34.31:387][900]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patios_C.png)
+[2020.05.30-15.34.31:627][900]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.31:641][901]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_01.png]
+[2020.05.30-15.34.31:641][901]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_01.png)
+[2020.05.30-15.34.31:673][901]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.31:695][902]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_02.png]
+[2020.05.30-15.34.31:696][902]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_02.png)
+[2020.05.30-15.34.31:764][902]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.31:778][903]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_03.png]
+[2020.05.30-15.34.31:779][903]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_03.png)
+[2020.05.30-15.34.31:830][903]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.31:843][904]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_Na.png]
+[2020.05.30-15.34.31:843][904]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_Na.png)
+[2020.05.30-15.34.32:060][904]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.32:076][905]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Puerta_T.png]
+[2020.05.30-15.34.32:076][905]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Puerta_T.png)
+[2020.05.30-15.34.32:111][905]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.32:147][906]LogEditorFactories: Performing atomic reimport of [C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Transp_1.png]
+[2020.05.30-15.34.32:148][906]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Transp_1.png)
+[2020.05.30-15.34.32:174][906]LogEditorFactories: -- imported successfully
+[2020.05.30-15.34.32:203][907]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-15.34.34:322][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.34:882][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.35:390][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.35:866][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.36:443][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.36:947][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.37:605][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.38:100][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.38:568][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.39:022][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.39:379][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.39:665][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.40:053][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.40:252][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.40:435][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.40:616][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.40:768][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.40:935][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.41:102][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.41:265][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.41:451][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.41:622][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.41:757][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.41:942][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.42:127][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.42:309][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.42:461][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.42:648][907]LogSlate: Window 'Message' being destroyed
+[2020.05.30-15.34.42:661][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/1" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/1.uasset" SILENT=true
+[2020.05.30-15.34.42:684][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/15C7AE74946227E91B7710CAB8F689CBB.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/1.uasset'
+[2020.05.30-15.34.42:695][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/2" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/2.uasset" SILENT=true
+[2020.05.30-15.34.42:736][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/25920F614440F787381B44C8B02B1D60B.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/2.uasset'
+[2020.05.30-15.34.42:744][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/20" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/20.uasset" SILENT=true
+[2020.05.30-15.34.42:775][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/20F224BBD74F596E794F4EE98B97688D38.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/20.uasset'
+[2020.05.30-15.34.42:802][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/20_1" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/20_1.uasset" SILENT=true
+[2020.05.30-15.34.42:827][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/20_1E210EBF541EF9D1CF6C3DDA5A2639EDC.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/20_1.uasset'
+[2020.05.30-15.34.42:856][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/29" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/29.uasset" SILENT=true
+[2020.05.30-15.34.42:928][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/2946BC5FA44A7AA99D0EC1BFB19DCF85A7.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/29.uasset'
+[2020.05.30-15.34.42:940][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/30" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/30.uasset" SILENT=true
+[2020.05.30-15.34.42:992][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/300CBDC2EE4B738F664D0230A1AFF60C48.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/30.uasset'
+[2020.05.30-15.34.43:002][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/4" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/4.uasset" SILENT=true
+[2020.05.30-15.34.43:020][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/402DE6159495C4D538027E7ABAFA37BAF.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/4.uasset'
+[2020.05.30-15.34.43:037][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/5" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/5.uasset" SILENT=true
+[2020.05.30-15.34.44:190][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/51E1734CB4BE6F33D75967CA26F7550ED.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/5.uasset'
+[2020.05.30-15.34.44:203][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Balaustr" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Balaustr.uasset" SILENT=true
+[2020.05.30-15.34.44:220][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Balaustr412C615B46000C8F4B8F84ABE315267E.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Balaustr.uasset'
+[2020.05.30-15.34.44:233][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Fachad01" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachad01.uasset" SILENT=true
+[2020.05.30-15.34.44:289][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Fachad01A3E087CD44BF5B68A0DD6C8B98C4A570.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachad01.uasset'
+[2020.05.30-15.34.44:300][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Fachad02" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachad02.uasset" SILENT=true
+[2020.05.30-15.34.44:370][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Fachad02426A8562444EF9A4527BAFBFD6669851.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachad02.uasset'
+[2020.05.30-15.34.44:386][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Fachad03" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachad03.uasset" SILENT=true
+[2020.05.30-15.34.44:433][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Fachad03CABE781A44D399470A1EDB9618E04A8C.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachad03.uasset'
+[2020.05.30-15.34.44:469][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Fachada" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachada.uasset" SILENT=true
+[2020.05.30-15.34.44:491][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Fachada9AC04A1C44A737E51D69478CD72D6B74.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachada.uasset'
+[2020.05.30-15.34.44:538][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Fachada_" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachada_.uasset" SILENT=true
+[2020.05.30-15.34.44:636][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Fachada_D3914AA0472F67220E75259A20515E97.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachada_.uasset'
+[2020.05.30-15.34.44:651][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Google_E" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Google_E.uasset" SILENT=true
+[2020.05.30-15.34.44:692][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Google_E5F82579842EFFBD63C55E09A628A4D2C.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Google_E.uasset'
+[2020.05.30-15.34.44:704][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Morande_" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Morande_.uasset" SILENT=true
+[2020.05.30-15.34.44:810][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Morande_B8622AB446825C71C4B197A0A47C71D0.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Morande_.uasset'
+[2020.05.30-15.34.44:825][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Patios01" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patios01.uasset" SILENT=true
+[2020.05.30-15.34.46:287][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Patios01EF7F3EA149317B3E151D36B21407B073.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patios01.uasset'
+[2020.05.30-15.34.46:305][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Patios_C" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patios_C.uasset" SILENT=true
+[2020.05.30-15.34.46:343][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Patios_C26F3F2BB46612F23134A39BB329587F8.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patios_C.uasset'
+[2020.05.30-15.34.46:356][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Patio_01" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_01.uasset" SILENT=true
+[2020.05.30-15.34.46:379][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Patio_012023D2D84A314C5E52C9168C57E58523.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_01.uasset'
+[2020.05.30-15.34.46:389][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Patio_02" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_02.uasset" SILENT=true
+[2020.05.30-15.34.46:419][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Patio_020F9D8B044CF3A7EAD238C784627FD2F7.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_02.uasset'
+[2020.05.30-15.34.46:490][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Patio_03" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_03.uasset" SILENT=true
+[2020.05.30-15.34.46:527][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Patio_0329AE1CC04E8ECBC7A10BC0A5C9785F6F.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_03.uasset'
+[2020.05.30-15.34.46:555][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Patio_Na" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_Na.uasset" SILENT=true
+[2020.05.30-15.34.46:596][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Patio_Na5B76869F4468CF087030CDABE48EB2D7.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_Na.uasset'
+[2020.05.30-15.34.46:608][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Puerta_T" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Puerta_T.uasset" SILENT=true
+[2020.05.30-15.34.46:632][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Puerta_T6A06A4C84646B3B196115C88DA4546A4.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Puerta_T.uasset'
+[2020.05.30-15.34.46:651][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/Transp_1" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Transp_1.uasset" SILENT=true
+[2020.05.30-15.34.46:689][907]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Transp_146DF7DFD46506573D7415A93DFB2BC19.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Transp_1.uasset'
+[2020.05.30-15.34.46:698][907]LogFileHelpers: Warning: The following assets are writable on disk but not checked out from source control:
+/Game/Imagenes/_1
+/Game/Imagenes/_10
+/Game/Imagenes/_11
+/Game/Imagenes/_12
+/Game/Imagenes/_13
+/Game/Imagenes/_14
+/Game/Imagenes/_15
+/Game/Imagenes/_16
+/Game/Imagenes/_17
+/Game/Imagenes/_18
+/Game/Imagenes/_19
+/Game/Imagenes/_20
+/Game/Imagenes/_21
+/Game/Imagenes/_22
+/Game/Imagenes/_23
+/Game/Imagenes/_24
+/Game/Imagenes/_25
+/Game/Imagenes/_26
+/Game/Imagenes/_27
+/Game/Imagenes/_28
+/Game/Imagenes/_29
+/Game/Imagenes/_3
+/Game/Imagenes/_4
+/Game/Imagenes/_5
+/Game/Imagenes/_6
+/Game/Imagenes/_7
+/Game/Imagenes/_8
+/Game/Imagenes/_9
+[2020.05.30-15.34.46:701][907]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-15.34.50:570][907]LogSlate: Window 'Writable Assets Not Checked Out' being destroyed
+[2020.05.30-15.34.53:585][ 73]AssetReimport: Importing new asset /Game/Imagenes/_1.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_10.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_11.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_12.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_13.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_14.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_15.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_16.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_17.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_18.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_19.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_20.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_21.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_22.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_23.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_24.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_25.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_26.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_27.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_28.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_29.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_3.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_4.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_5.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_6.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_7.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_8.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Importing new asset /Game/Imagenes/_9.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset 1 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/1.jpg.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset 2 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/2.png.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset 20 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/20.jpg.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset 20_1 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/20_1.jpg.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset 29 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/29.jpg.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset 30 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/30.png.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset 4 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/4.jpg.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset 5 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/5.jpg.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Balaustr from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Balaustr.png.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Fachad01 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachad01.png.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Fachad02 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachad02.png.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Fachad03 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachad03.png.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Fachada from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachada.png.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Fachada_ from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Fachada_.png.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Google_E from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Google_E.jpg.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Morande_ from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Morande_.png.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Patios01 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patios01.jpg.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Patios_C from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patios_C.png.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Patio_01 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_01.png.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Patio_02 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_02.png.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Patio_03 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_03.png.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Patio_Na from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Patio_Na.png.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Puerta_T from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Puerta_T.png.
+[2020.05.30-15.34.53:586][ 73]AssetReimport: Reimported asset Transp_1 from C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/Imagenes/Transp_1.png.
+[2020.05.30-15.35.04:612][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.35.07:252][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.35.11:700][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.30-15.35.15:861][409]LogMaterial: Display: Material /Game/VehicleAdv/Materials/MasterSolidColor.MasterSolidColor needed to have new flag set bUsedWithSplineMeshes !
+[2020.05.30-15.35.15:862][409]LogMaterial: Display: Missing cached shader map for material MasterSolidColor, compiling. 
+[2020.05.30-15.35.15:897][409]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 59
+[2020.05.30-15.35.15:897][409]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2020.05.30-15.35.15:897][409]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2020.05.30-15.35.15:897][409]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2020.05.30-15.35.18:631][577]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.05.30-15.35.18:750][584]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.05.30-15.35.19:979][658]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.05.30-15.35.20:046][662]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.05.30-15.35.20:387][682]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.05.30-15.35.20:387][682]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.05.30-15.35.20:947][716]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.05.30-15.35.28:303][157]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-15.35.29:820][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.35.44:497][128]LogEditorViewport: Clicking on Actor (double click): SPLine_C (SPLine)
+[2020.05.30-15.35.45:964][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.35.54:595][734]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-15.36.03:141][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.36.47:492][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2020.05.30-15.36.54:757][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2020.05.30-15.36.55:824][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.37.32:327][601]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-15.37.48:821][591]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-15.38.05:416][587]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-15.38.20:795][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.38.50:650][302]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-15.38.51:884][376]Cmd: DELETE
+[2020.05.30-15.38.51:884][376]Cmd: ACTOR DELETE
+[2020.05.30-15.38.51:887][376]LogEditorActor: Deleted Actor: SPLine_C
+[2020.05.30-15.38.51:919][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.05.30-15.38.51:920][376]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.05.30-15.38.57:148][688]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-15.39.03:464][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.39.06:770][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.30-15.43.37:870][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.43.56:713][660]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-15.43.58:546][770]Cmd: DELETE
+[2020.05.30-15.43.58:546][770]Cmd: ACTOR DELETE
+[2020.05.30-15.43.58:549][770]LogEditorActor: Deleted Actor: SPLine_C
+[2020.05.30-15.43.58:576][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.05.30-15.43.58:576][770]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.05.30-15.44.06:344][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.44.06:512][247]LogActorFactory: Actor Factory created Plane
+[2020.05.30-15.44.08:585][247]LogActorFactory: Actor Factory created Plane
+[2020.05.30-15.44.11:300][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.30-15.44.24:954][202]Cmd: DELETE
+[2020.05.30-15.44.24:954][202]Cmd: ACTOR DELETE
+[2020.05.30-15.44.24:957][202]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.30-15.44.25:013][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.05.30-15.44.25:014][202]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2020.05.30-15.44.29:936][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.44.30:170][514]LogActorFactory: Actor Factory created Cube
+[2020.05.30-15.44.30:556][537]LogActorFactory: Actor Factory created Cube
+[2020.05.30-15.44.31:827][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.30-15.44.38:791][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.30-15.44.41:065][169]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-15.44.45:265][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.44.48:496][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.05.30-15.44.51:662][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.44.54:378][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.05.30-15.44.56:510][975]Cmd: DELETE
+[2020.05.30-15.44.56:510][975]Cmd: ACTOR DELETE
+[2020.05.30-15.44.56:512][975]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.30-15.44.56:557][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.05.30-15.44.56:558][975]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2020.05.30-15.44.57:793][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.44.58:028][ 65]LogActorFactory: Actor Factory created Plane
+[2020.05.30-15.44.58:463][ 91]LogActorFactory: Actor Factory created Plane
+[2020.05.30-15.44.59:484][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.30-15.45.13:937][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_93)
+[2020.05.30-15.45.20:135][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.05.30-15.45.21:093][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.30-15.45.28:433][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.45.31:290][742]LogSlate: Window 'Material Baking Options' being destroyed
+[2020.05.30-15.45.34:214][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_93)
+[2020.05.30-15.45.37:162][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.05.30-15.45.40:128][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.45.47:426][709]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2020.05.30-15.45.47:455][709]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-15.46.21:881][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_93)
+[2020.05.30-15.46.29:253][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.30-15.46.40:826][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.47.03:685][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.47.32:569][890]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-15.47.32:613][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.05.30-15.47.32:861][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/VehicleAdvExampleMap_Auto23079B05E42ED259FA9319A8C989F564D.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto2.umap'
+[2020.05.30-15.47.32:866][890]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.276
+[2020.05.30-15.47.32:866][890]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.276
+[2020.05.30-15.47.32:868][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdv/Materials/MaterialInstances/SolidRed] ([1] browsable assets)...
+[2020.05.30-15.47.32:890][890]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/VehicleAdv/Materials/MaterialInstances/SolidRed.SolidRed]
+[2020.05.30-15.47.32:890][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdv/Materials/MaterialInstances/SolidRed]
+[2020.05.30-15.47.32:915][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/SolidRed_Auto2AB82BEFF44616A61F9E46E89CB29354C.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/VehicleAdv/Materials/MaterialInstances/SolidRed_Auto2.uasset'
+[2020.05.30-15.47.32:916][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdv/Materials/MasterSolidColor] ([1] browsable assets)...
+[2020.05.30-15.47.32:937][890]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VehicleAdv/Materials/MasterSolidColor.MasterSolidColor]
+[2020.05.30-15.47.32:937][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdv/Materials/MasterSolidColor]
+[2020.05.30-15.47.32:961][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/MasterSolidColor_Auto2870B205F41FF85B2379D4BB709E3D9A9.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/VehicleAdv/Materials/MasterSolidColor_Auto2.uasset'
+[2020.05.30-15.47.32:962][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_1] ([1] browsable assets)...
+[2020.05.30-15.47.32:968][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_1.Texture2D_0]
+[2020.05.30-15.47.32:968][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_1]
+[2020.05.30-15.47.32:978][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_1_Auto27DA4237B471356ED90C5DD86B784C3B1.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_1_Auto2.uasset'
+[2020.05.30-15.47.32:979][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_10] ([1] browsable assets)...
+[2020.05.30-15.47.32:980][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_10.Texture2D_0]
+[2020.05.30-15.47.32:980][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_10]
+[2020.05.30-15.47.32:987][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_10_Auto29937F14D4B834925E82D768983A368EA.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_10_Auto2.uasset'
+[2020.05.30-15.47.32:989][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_11] ([1] browsable assets)...
+[2020.05.30-15.47.32:992][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_11.Texture2D_0]
+[2020.05.30-15.47.32:992][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_11]
+[2020.05.30-15.47.33:003][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_11_Auto211CC50FD400347A4D6D2A2AF4D2D8CE8.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_11_Auto2.uasset'
+[2020.05.30-15.47.33:005][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_12] ([1] browsable assets)...
+[2020.05.30-15.47.33:008][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_12.Texture2D_0]
+[2020.05.30-15.47.33:008][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_12]
+[2020.05.30-15.47.33:021][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_12_Auto2648348A04CC5F4CF946FDDBE766DE1A1.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_12_Auto2.uasset'
+[2020.05.30-15.47.33:025][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_13] ([1] browsable assets)...
+[2020.05.30-15.47.33:027][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_13.Texture2D_0]
+[2020.05.30-15.47.33:027][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_13]
+[2020.05.30-15.47.33:034][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_13_Auto2F520A510439AD0549B6D56BB5FEE0475.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_13_Auto2.uasset'
+[2020.05.30-15.47.33:036][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_14] ([1] browsable assets)...
+[2020.05.30-15.47.33:038][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_14.Texture2D_0]
+[2020.05.30-15.47.33:038][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_14]
+[2020.05.30-15.47.33:045][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_14_Auto28E0A68D24A824E89C66201B14236939F.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_14_Auto2.uasset'
+[2020.05.30-15.47.33:047][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_15] ([1] browsable assets)...
+[2020.05.30-15.47.33:051][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_15.Texture2D_0]
+[2020.05.30-15.47.33:051][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_15]
+[2020.05.30-15.47.33:063][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_15_Auto27C81A0044418263022C368B4C6F54055.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_15_Auto2.uasset'
+[2020.05.30-15.47.33:065][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_16] ([1] browsable assets)...
+[2020.05.30-15.47.33:068][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_16.Texture2D_0]
+[2020.05.30-15.47.33:068][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_16]
+[2020.05.30-15.47.33:079][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_16_Auto2C724F378460C253A09C2DF8175940ACA.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_16_Auto2.uasset'
+[2020.05.30-15.47.33:081][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_17] ([1] browsable assets)...
+[2020.05.30-15.47.33:083][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_17.Texture2D_0]
+[2020.05.30-15.47.33:083][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_17]
+[2020.05.30-15.47.33:091][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_17_Auto27F0D324A4DD035D83517A0BE0B0382FE.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_17_Auto2.uasset'
+[2020.05.30-15.47.33:094][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_18] ([1] browsable assets)...
+[2020.05.30-15.47.33:098][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_18.Texture2D_0]
+[2020.05.30-15.47.33:098][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_18]
+[2020.05.30-15.47.33:110][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_18_Auto21D995E6F4BC8C42F988203896E0D772E.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_18_Auto2.uasset'
+[2020.05.30-15.47.33:111][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_19] ([1] browsable assets)...
+[2020.05.30-15.47.33:113][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_19.Texture2D_0]
+[2020.05.30-15.47.33:113][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_19]
+[2020.05.30-15.47.33:119][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_19_Auto235B5328F43C6880C6A8EEE909DE7BC32.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_19_Auto2.uasset'
+[2020.05.30-15.47.33:121][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_20] ([1] browsable assets)...
+[2020.05.30-15.47.33:123][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_20.Texture2D_0]
+[2020.05.30-15.47.33:123][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_20]
+[2020.05.30-15.47.33:130][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_20_Auto29C77340B4491AD5B33DF9CB5902674C5.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_20_Auto2.uasset'
+[2020.05.30-15.47.33:131][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_21] ([1] browsable assets)...
+[2020.05.30-15.47.33:133][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_21.Texture2D_0]
+[2020.05.30-15.47.33:133][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_21]
+[2020.05.30-15.47.33:141][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_21_Auto24E4EBE984A2A86DABD2A60805A20CB84.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_21_Auto2.uasset'
+[2020.05.30-15.47.33:142][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_22] ([1] browsable assets)...
+[2020.05.30-15.47.33:144][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_22.Texture2D_0]
+[2020.05.30-15.47.33:144][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_22]
+[2020.05.30-15.47.33:151][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_22_Auto21CEC43604FB7C8DDBFF4B69CC40C96E8.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_22_Auto2.uasset'
+[2020.05.30-15.47.33:152][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_23] ([1] browsable assets)...
+[2020.05.30-15.47.33:157][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_23.Texture2D_0]
+[2020.05.30-15.47.33:157][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_23]
+[2020.05.30-15.47.33:169][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_23_Auto25231FFB2457AED62615ECEB3C01FC223.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_23_Auto2.uasset'
+[2020.05.30-15.47.33:171][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_24] ([1] browsable assets)...
+[2020.05.30-15.47.33:174][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_24.Texture2D_0]
+[2020.05.30-15.47.33:174][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_24]
+[2020.05.30-15.47.33:182][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_24_Auto263766C914BC11C9B719AC39FB93BDEB3.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_24_Auto2.uasset'
+[2020.05.30-15.47.33:184][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_25] ([1] browsable assets)...
+[2020.05.30-15.47.33:188][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_25.Texture2D_0]
+[2020.05.30-15.47.33:188][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_25]
+[2020.05.30-15.47.33:196][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_25_Auto2AF53128A43657E803A72E39A7CD34ED5.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_25_Auto2.uasset'
+[2020.05.30-15.47.33:198][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_26] ([1] browsable assets)...
+[2020.05.30-15.47.33:203][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_26.Texture2D_0]
+[2020.05.30-15.47.33:203][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_26]
+[2020.05.30-15.47.33:212][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_26_Auto2985C53D94C25E113EC99D2B870F8EFCF.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_26_Auto2.uasset'
+[2020.05.30-15.47.33:213][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_27] ([1] browsable assets)...
+[2020.05.30-15.47.33:216][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_27.Texture2D_0]
+[2020.05.30-15.47.33:216][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_27]
+[2020.05.30-15.47.33:225][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_27_Auto22244DAEB405902C60BA88C89DC976426.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_27_Auto2.uasset'
+[2020.05.30-15.47.33:226][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_28] ([1] browsable assets)...
+[2020.05.30-15.47.33:232][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_28.Texture2D_0]
+[2020.05.30-15.47.33:232][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_28]
+[2020.05.30-15.47.33:242][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_28_Auto26FE842174FA02859E009558A3E3D5A79.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_28_Auto2.uasset'
+[2020.05.30-15.47.33:243][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_29] ([1] browsable assets)...
+[2020.05.30-15.47.33:249][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_29.Texture2D_0]
+[2020.05.30-15.47.33:249][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_29]
+[2020.05.30-15.47.33:262][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_29_Auto2150388BB4FF03643044F0EB1D0ADC36E.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_29_Auto2.uasset'
+[2020.05.30-15.47.33:264][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_3] ([1] browsable assets)...
+[2020.05.30-15.47.33:265][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_3.Texture2D_0]
+[2020.05.30-15.47.33:266][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_3]
+[2020.05.30-15.47.33:273][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_3_Auto2A2221A5D4232A6D1AAEE38A62AC8F6DF.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_3_Auto2.uasset'
+[2020.05.30-15.47.33:276][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_4] ([1] browsable assets)...
+[2020.05.30-15.47.33:277][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_4.Texture2D_0]
+[2020.05.30-15.47.33:278][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_4]
+[2020.05.30-15.47.33:284][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_4_Auto218C66CF24AB02382D8F9AB8B82AD0800.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_4_Auto2.uasset'
+[2020.05.30-15.47.33:286][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_5] ([1] browsable assets)...
+[2020.05.30-15.47.33:288][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_5.Texture2D_0]
+[2020.05.30-15.47.33:288][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_5]
+[2020.05.30-15.47.33:296][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_5_Auto24F5AE51C48E0579408E9308319C77182.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_5_Auto2.uasset'
+[2020.05.30-15.47.33:298][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_6] ([1] browsable assets)...
+[2020.05.30-15.47.33:299][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_6.Texture2D_0]
+[2020.05.30-15.47.33:299][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_6]
+[2020.05.30-15.47.33:306][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_6_Auto2AA2FE2F34C131F155C2F96B8ADBAC443.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_6_Auto2.uasset'
+[2020.05.30-15.47.33:307][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_7] ([1] browsable assets)...
+[2020.05.30-15.47.33:309][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_7.Texture2D_0]
+[2020.05.30-15.47.33:309][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_7]
+[2020.05.30-15.47.33:315][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_7_Auto233DEE99F46871F72E5672D97CA2D1EA1.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_7_Auto2.uasset'
+[2020.05.30-15.47.33:316][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_8] ([1] browsable assets)...
+[2020.05.30-15.47.33:317][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_8.Texture2D_0]
+[2020.05.30-15.47.33:317][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_8]
+[2020.05.30-15.47.33:323][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_8_Auto2A068B30E448439EB3949ECB835753EC0.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_8_Auto2.uasset'
+[2020.05.30-15.47.33:324][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imagenes/_9] ([1] browsable assets)...
+[2020.05.30-15.47.33:325][890]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imagenes/_9.Texture2D_0]
+[2020.05.30-15.47.33:325][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imagenes/_9]
+[2020.05.30-15.47.33:331][890]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/_9_Auto2053EC9A147BADCB7CAE965924449E80D.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/Imagenes/_9_Auto2.uasset'
+[2020.05.30-15.47.33:332][890]LogFileHelpers: Auto-saving content packages took 0.465
+[2020.05.30-15.48.18:826][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.48.27:588][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_94)
+[2020.05.30-15.48.51:314][561]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-15.48.52:380][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_94)
+[2020.05.30-15.48.53:631][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.48.59:512][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.49.07:058][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_94)
+[2020.05.30-15.49.09:558][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_94)
+[2020.05.30-15.49.10:140][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_94)
+[2020.05.30-15.49.10:940][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_94)
+[2020.05.30-15.49.11:373][765]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-15.49.12:748][846]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.30-15.49.35:232][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_94)
+[2020.05.30-15.49.36:782][290]Cmd: DELETE
+[2020.05.30-15.49.36:782][290]Cmd: ACTOR DELETE
+[2020.05.30-15.49.36:785][290]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.30-15.49.36:812][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.05.30-15.49.36:813][290]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.05.30-15.49.37:981][362]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-15.49.48:479][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.49.59:157][633]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-15.50.03:305][882]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-15.50.09:887][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.50.14:520][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.50.41:311][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.50.48:190][576]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-15.51.18:247][380]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-15.51.19:880][478]Cmd: DELETE
+[2020.05.30-15.51.19:880][478]Cmd: ACTOR DELETE
+[2020.05.30-15.51.19:883][478]LogEditorActor: Deleted Actor: SPLine_C
+[2020.05.30-15.51.19:913][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.05.30-15.51.19:914][478]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.05.30-15.52.53:315][965]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-15.52.58:729][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.57.14:293][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_93)
+[2020.05.30-15.57.23:998][939]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.30-15.57.34:771][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.58.19:522][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.58.26:252][668]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2020.05.30-15.58.35:233][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.58.47:067][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.59.21:167][964]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-15.59.22:583][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_94)
+[2020.05.30-15.59.23:667][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.59.34:946][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.59.39:845][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_94)
+[2020.05.30-15.59.44:444][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-15.59.50:957][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_94)
+[2020.05.30-15.59.52:224][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-16.00.02:787][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-16.00.12:701][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-16.00.22:897][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-16.00.46:371][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_94)
+[2020.05.30-16.00.52:421][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-16.00.53:685][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_94)
+[2020.05.30-16.00.53:819][403]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.05.30-16.00.54:652][454]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.05.30-16.00.54:751][459]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (AV_turn_94)
+[2020.05.30-16.00.55:002][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_94)
+[2020.05.30-16.00.55:915][529]LogSlate: Took 0.013035 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.30-16.00.58:852][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-16.01.03:765][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_94)
+[2020.05.30-16.01.07:430][221]Cmd: DELETE
+[2020.05.30-16.01.07:430][221]Cmd: ACTOR DELETE
+[2020.05.30-16.01.07:433][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.30-16.01.07:458][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.05.30-16.01.07:458][221]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.05.30-16.01.09:647][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-16.01.12:121][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.30-16.01.29:290][533]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-16.01.30:673][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-16.01.43:337][375]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-16.01.44:203][427]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-16.02.13:908][211]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-16.02.37:702][638]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-16.03.11:755][683]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-16.03.12:555][731]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-16.03.23:284][375]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-16.03.39:730][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-16.03.42:245][513]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-16.03.43:195][570]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-16.03.44:311][637]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-16.04.00:268][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.30-16.04.00:320][478]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.04.00:365][478]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.04.05:004][755]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-16.04.15:767][401]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2020.05.30-16.04.15:808][401]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.04.17:816][524]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-16.04.18:132][543]LogEditorViewport: Clicking on Actor (context menu): SPLine_C (SPLine2)
+[2020.05.30-16.04.18:163][543]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.04.27:579][110]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-16.04.33:361][457]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-16.04.37:160][685]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-16.04.37:576][710]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-16.04.37:976][734]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine)
+[2020.05.30-16.04.43:391][ 59]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-16.04.45:856][206]LogEditorViewport: Clicking on Component (context menu): SplineMeshComponent (NODE_AddSplineMeshComponent-0)
+[2020.05.30-16.04.45:881][206]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.04.47:207][288]LogEditorViewport: Clicking on Component (context menu): SplineMeshComponent (NODE_AddSplineMeshComponent-0)
+[2020.05.30-16.04.47:235][288]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.04.48:324][354]LogEditorViewport: Clicking on Component (LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0)
+[2020.05.30-16.04.48:989][395]LogEditorViewport: Clicking on Component (LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0)
+[2020.05.30-16.04.50:005][456]LogEditorViewport: Clicking on Component (LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0)
+[2020.05.30-16.04.50:422][481]LogEditorViewport: Clicking on Component (LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0)
+[2020.05.30-16.04.50:555][488]LogEditorViewport: Clicking on Actor (double click): SPLine_C (SPLine2)
+[2020.05.30-16.04.50:989][515]LogEditorViewport: Clicking on Actor (LMB): SPLine_C (SPLine2)
+[2020.05.30-16.04.51:988][575]LogEditorViewport: Clicking on Actor (context menu): SPLine_C (SPLine2)
+[2020.05.30-16.04.52:019][575]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.05.09:199][608]LogEditorViewport: Clicking on Actor (context menu): SPLine_C (SPLine2)
+[2020.05.30-16.05.09:228][608]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.05.42:774][622]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.05.42:790][622]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SPLine/SPLine.SPLine
+[2020.05.30-16.06.53:643][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.05.30-16.06.53:897][822]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/VehicleAdvExampleMap_Auto3031E2E1D4E48A5980E3843BFD0DF3859.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto3.umap'
+[2020.05.30-16.06.53:901][822]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.291
+[2020.05.30-16.06.53:901][822]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.291
+[2020.05.30-16.06.53:903][822]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SPLine/SPLine] ([1] browsable assets)...
+[2020.05.30-16.06.53:903][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/SPLine/SPLine]
+[2020.05.30-16.06.53:938][822]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/SPLine_Auto3A99404E94543691A6CE86C86FB0E8CFB.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/Autosaves/Game/SPLine/SPLine_Auto3.uasset'
+[2020.05.30-16.06.53:939][822]LogFileHelpers: Auto-saving content packages took 0.037
+[2020.05.30-16.06.56:906][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.30-16.07.28:453][891]LogSlate: Window 'SPLine' being destroyed
+[2020.05.30-16.07.28:473][891]LogSlate: Window 'SPLine' being destroyed
+[2020.05.30-16.07.28:483][891]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-16.31.50:814][459]LogRenderer: Reallocating scene render targets to support 720x412 Format 9 NumSamples 1 (Frame:101905).
+[2020.05.30-16.31.55:568][466]LogInit: XAudio2 using 'SAMSUNG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.30-16.32.54:727][643]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.32.55:125][650]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.32.55:261][655]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.32.55:718][680]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.32.56:254][711]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.32.56:617][732]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.32.57:706][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.05.30-16.33.01:246][796]LogSlate: Window 'Save Content' being destroyed
+[2020.05.30-16.33.01:273][796]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.30-16.34.17:979][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.19:404][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.22:001][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.22:136][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.22:352][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.22:620][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.22:878][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.23:011][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.23:162][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.23:311][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.23:446][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.23:605][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.23:754][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.23:920][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.24:070][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.24:220][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.24:420][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.25:066][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.27:615][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.28:125][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.28:631][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.29:019][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.29:389][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.29:694][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.30:031][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.30:332][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.30:665][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.31:154][796]LogSlate: Window 'Message' being destroyed
+[2020.05.30-16.34.31:161][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPLine/SPLine" FILE="../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/SPLine/SPLine.uasset" SILENT=true
+[2020.05.30-16.34.31:190][796]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/SPLine8BFC999842919E351365AC8FBC9691DF.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/SPLine/SPLine.uasset'
+[2020.05.30-16.34.31:217][796]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/MasterGrid84927FA24DE23DDF3C5AA2A5DE55D38F.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/VehicleAdv/Materials/MasterGrid.uasset'
+[2020.05.30-16.34.31:255][796]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/MasterSolidColor6EAFA88D49197A5933DE76A47E17D40A.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/VehicleAdv/Materials/MasterSolidColor.uasset'
+[2020.05.30-16.34.31:305][796]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/RedGridCE7C4C884CBE5FCB43908FB93E47273E.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/VehicleAdv/Materials/MaterialInstances/RedGrid.uasset'
+[2020.05.30-16.34.31:404][796]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/SolidRedE109830C4EAAEA0372D16785F28581D4.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/VehicleAdv/Materials/MaterialInstances/SolidRed.uasset'
+[2020.05.30-16.34.31:494][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.05.30-16.34.31:748][796]LogSavePackage: Moving '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Saved/VehicleAdvExampleMap42A3816340509B83CD6CFFA2E0FD9672.tmp' to '../../../../../../Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2020.05.30-16.34.31:772][796]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 0.304
+[2020.05.30-16.34.31:776][796]LogFileHelpers: Warning: The following assets are writable on disk but not checked out from source control:
+/Game/Imagenes/_1
+/Game/Imagenes/_10
+/Game/Imagenes/_11
+/Game/Imagenes/_12
+/Game/Imagenes/_13
+/Game/Imagenes/_14
+/Game/Imagenes/_15
+/Game/Imagenes/_16
+/Game/Imagenes/_17
+/Game/Imagenes/_18
+/Game/Imagenes/_19
+/Game/Imagenes/_20
+/Game/Imagenes/_21
+/Game/Imagenes/_22
+/Game/Imagenes/_23
+/Game/Imagenes/_24
+/Game/Imagenes/_25
+/Game/Imagenes/_26
+/Game/Imagenes/_27
+/Game/Imagenes/_28
+/Game/Imagenes/_29
+/Game/Imagenes/_3
+/Game/Imagenes/_4
+/Game/Imagenes/_5
+/Game/Imagenes/_6
+/Game/Imagenes/_7
+/Game/Imagenes/_8
+/Game/Imagenes/_9
+[2020.05.30-16.34.31:776][796]LogDialogs: Warning: Suppressed: The following assets are writable on disk but not checked out from source control:
+/Game/Imagenes/_1
+/Game/Imagenes/_10
+/Game/Imagenes/_11
+/Game/Imagenes/_12
+/Game/Imagenes/_13
+/Game/Imagenes/_14
+/Game/Imagenes/_15
+/Game/Imagenes/_16
+/Game/Imagenes/_17
+/Game/Imagenes/_18
+/Game/Imagenes/_19
+/Game/Imagenes/_20
+/Game/Imagenes/_21
+/Game/Imagenes/_22
+/Game/Imagenes/_23
+/Game/Imagenes/_24
+/Game/Imagenes/_25
+/Game/Imagenes/_26
+/Game/Imagenes/_27
+/Game/Imagenes/_28
+/Game/Imagenes/_29
+/Game/Imagenes/_3
+/Game/Imagenes/_4
+/Game/Imagenes/_5
+/Game/Imagenes/_6
+/Game/Imagenes/_7
+/Game/Imagenes/_8
+/Game/Imagenes/_9
+[2020.05.30-16.34.31:815][796]LogSlate: Window 'Golpe1973 - Unreal Editor' being destroyed
+[2020.05.30-16.34.31:816][796]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.30-16.34.31:974][797]Cmd: QUIT_EDITOR
+[2020.05.30-16.34.32:016][797]LogExit: Preparing to exit.
+[2020.05.30-16.34.32:820][797]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-16.34.32:822][797]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-16.34.32:826][797]LogDirectoryWatcher: A directory notification failed for 'C:/Users/diaza/OneDrive/Documentos/Unreal Projects/Golpe1973/Content/', and we were unable to create a new request.
+[2020.05.30-16.34.32:850][797]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.30-16.34.32:861][797]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-16.34.32:861][797]LogExit: Editor shut down
+[2020.05.30-16.34.32:862][797]LogExit: Transaction tracking system shut down
+[2020.05.30-16.34.34:235][797]LogExit: Object subsystem successfully closed.
+[2020.05.30-16.34.34:264][797]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.30-16.34.34:300][797]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (674)
+[2020.05.30-16.34.34:300][797]LogModuleManager: Shutting down and abandoning module BlueprintGraph (672)
+[2020.05.30-16.34.34:300][797]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2020.05.30-16.34.34:300][797]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2020.05.30-16.34.34:300][797]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module StatsViewer (658)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (656)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module FoliageEdit (654)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module LandscapeEditor (652)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module MeshPaintMode (650)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (648)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module ActorPickerMode (646)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module GeometryMode (644)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module TextureAlignMode (642)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module BspMode (640)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (638)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (636)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module AutomationWorker (634)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module OculusMR (632)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (630)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (628)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (626)
+[2020.05.30-16.34.34:301][797]LogModuleManager: Shutting down and abandoning module PlacementMode (625)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module MaterialEditor (624)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (620)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (618)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (616)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (614)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (612)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module WebMMedia (610)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (608)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (606)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module SequenceRecorder (605)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (602)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (600)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (598)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (596)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (594)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (592)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (590)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (588)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (586)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (584)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (582)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module CharacterAI (580)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module SmartSnapping (578)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module SessionServices (576)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module MeshPaint (574)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module ViewportSnapping (572)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module ViewportInteraction (570)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module ClothPainter (568)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (567)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module LogVisualizer (564)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module IntroTutorials (562)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (561)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (558)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (556)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (554)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (552)
+[2020.05.30-16.34.34:302][797]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (551)
+[2020.05.30-16.34.35:941][797]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (548)
+[2020.05.30-16.34.35:941][797]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (546)
+[2020.05.30-16.34.35:941][797]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (544)
+[2020.05.30-16.34.35:941][797]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (542)
+[2020.05.30-16.34.35:941][797]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (540)
+[2020.05.30-16.34.35:941][797]LogModuleManager: Shutting down and abandoning module InputBindingEditor (538)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module MergeActors (536)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (534)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module LocalizationService (533)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module HardwareTargeting (530)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (528)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module UndoHistory (526)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module XmlParser (524)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module Blutility (522)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (520)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (519)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (516)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module SettingsEditor (514)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module ProjectLauncher (512)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module SessionFrontend (510)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module ProfilerClient (508)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module DeviceManager (506)
+[2020.05.30-16.34.35:942][797]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (505)
+[2020.05.30-16.34.35:986][797]LogModuleManager: Shutting down and abandoning module AutomationController (502)
+[2020.05.30-16.34.35:986][797]LogModuleManager: Shutting down and abandoning module AutomationWindow (500)
+[2020.05.30-16.34.35:986][797]LogModuleManager: Shutting down and abandoning module Layers (498)
+[2020.05.30-16.34.35:986][797]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (496)
+[2020.05.30-16.34.35:986][797]LogModuleManager: Shutting down and abandoning module DetailCustomizations (494)
+[2020.05.30-16.34.35:986][797]LogModuleManager: Shutting down and abandoning module PackagesDialog (492)
+[2020.05.30-16.34.35:986][797]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (490)
+[2020.05.30-16.34.35:986][797]LogModuleManager: Shutting down and abandoning module Persona (488)
+[2020.05.30-16.34.35:986][797]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (487)
+[2020.05.30-16.34.35:986][797]LogModuleManager: Shutting down and abandoning module AnimGraph (485)
+[2020.05.30-16.34.35:986][797]LogModuleManager: Shutting down and abandoning module Kismet (482)
+[2020.05.30-16.34.35:992][797]LogModuleManager: Shutting down and abandoning module KismetWidgets (481)
+[2020.05.30-16.34.35:992][797]LogModuleManager: Shutting down and abandoning module GraphEditor (478)
+[2020.05.30-16.34.35:993][797]LogModuleManager: Shutting down and abandoning module StructViewer (476)
+[2020.05.30-16.34.35:993][797]LogModuleManager: Shutting down and abandoning module ClassViewer (474)
+[2020.05.30-16.34.35:993][797]LogModuleManager: Shutting down and abandoning module Toolbox (472)
+[2020.05.30-16.34.35:993][797]LogModuleManager: Shutting down and abandoning module ModuleUI (470)
+[2020.05.30-16.34.35:993][797]LogModuleManager: Shutting down and abandoning module MovieSceneTools (468)
+[2020.05.30-16.34.35:993][797]LogModuleManager: Shutting down and abandoning module OutputLog (466)
+[2020.05.30-16.34.35:993][797]LogModuleManager: Shutting down and abandoning module GammaUI (464)
+[2020.05.30-16.34.35:993][797]LogModuleManager: Shutting down and abandoning module Documentation (462)
+[2020.05.30-16.34.35:993][797]LogModuleManager: Shutting down and abandoning module LiveCoding (460)
+[2020.05.30-16.34.35:993][797]LogModuleManager: Shutting down and abandoning module LevelSequence (458)
+[2020.05.30-16.34.35:993][797]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (456)
+[2020.05.30-16.34.35:993][797]LogModuleManager: Shutting down and abandoning module MovieScene (454)
+[2020.05.30-16.34.35:993][797]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (452)
+[2020.05.30-16.34.35:993][797]LogModuleManager: Shutting down and abandoning module LauncherPlatform (450)
+[2020.05.30-16.34.35:994][797]LogModuleManager: Shutting down and abandoning module AnalyticsET (448)
+[2020.05.30-16.34.35:994][797]LogModuleManager: Shutting down and abandoning module PortalServices (446)
+[2020.05.30-16.34.35:994][797]LogModuleManager: Shutting down and abandoning module PortalRpc (444)
+[2020.05.30-16.34.35:994][797]LogModuleManager: Shutting down and abandoning module MessagingRpc (442)
+[2020.05.30-16.34.35:994][797]LogModuleManager: Shutting down and abandoning module AIModule (440)
+[2020.05.30-16.34.35:994][797]LogModuleManager: Shutting down and abandoning module GameplayDebugger (439)
+[2020.05.30-16.34.35:994][797]LogModuleManager: Shutting down and abandoning module AITestSuite (437)
+[2020.05.30-16.34.35:994][797]LogModuleManager: Shutting down and abandoning module NavigationSystem (435)
+[2020.05.30-16.34.35:994][797]LogModuleManager: Shutting down and abandoning module DesktopPlatform (432)
+[2020.05.30-16.34.35:994][797]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (430)
+[2020.05.30-16.34.35:997][797]LogModuleManager: Shutting down and abandoning module ProfilerService (428)
+[2020.05.30-16.34.36:066][797]LogModuleManager: Shutting down and abandoning module TaskGraph (426)
+[2020.05.30-16.34.36:066][797]LogModuleManager: Shutting down and abandoning module ScreenshotTools (424)
+[2020.05.30-16.34.36:066][797]LogModuleManager: Shutting down and abandoning module SteamVRController (422)
+[2020.05.30-16.34.36:066][797]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (420)
+[2020.05.30-16.34.36:066][797]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2020.05.30-16.34.36:066][797]LogModuleManager: Shutting down and abandoning module OculusEditor (416)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module OculusInput (414)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (412)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module EditableMesh (410)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (408)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module AudioCapture (404)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (402)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (400)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module AppleImageUtils (398)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module ImgMedia (388)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module RawInput (380)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.05.30-16.34.36:067][797]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.05.30-16.34.36:068][797]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.05.30-16.34.36:068][797]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.05.30-16.34.36:068][797]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.05.30-16.34.36:068][797]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.05.30-16.34.36:168][797]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.05.30-16.34.36:268][797]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.05.30-16.34.36:268][797]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.05.30-16.34.36:268][797]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.05.30-16.34.36:268][797]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.05.30-16.34.36:268][797]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.05.30-16.34.36:268][797]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.30-16.34.36:268][797]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.05.30-16.34.36:268][797]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.05.30-16.34.36:268][797]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.05.30-16.34.36:268][797]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.05.30-16.34.36:268][797]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.05.30-16.34.36:268][797]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.05.30-16.34.36:268][797]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.05.30-16.34.36:268][797]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.05.30-16.34.36:269][797]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.05.30-16.34.36:269][797]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.05.30-16.34.36:269][797]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.05.30-16.34.36:269][797]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.05.30-16.34.36:269][797]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.05.30-16.34.36:270][797]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.05.30-16.34.36:270][797]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.05.30-16.34.36:270][797]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.05.30-16.34.36:270][797]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.05.30-16.34.36:270][797]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.05.30-16.34.36:273][797]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.05.30-16.34.36:274][797]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.05.30-16.34.36:275][797]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.05.30-16.34.36:326][797]LogDerivedDataCache: Shutdown
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.05.30-16.34.36:327][797]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.05.30-16.34.36:329][797]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.05.30-16.34.36:329][797]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.05.30-16.34.36:329][797]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.05.30-16.34.36:329][797]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.05.30-16.34.36:329][797]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.05.30-16.34.36:330][797]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.05.30-16.34.36:330][797]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.05.30-16.34.36:331][797]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.05.30-16.34.36:331][797]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.05.30-16.34.36:342][797]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.05.30-16.34.36:342][797]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.30-16.34.36:343][797]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.05.30-16.34.36:343][797]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.05.30-16.34.36:343][797]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.05.30-16.34.36:343][797]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.05.30-16.34.36:343][797]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.05.30-16.34.36:343][797]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.05.30-16.34.36:343][797]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.05.30-16.34.36:353][797]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.05.30-16.34.36:353][797]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.30-16.34.36:353][797]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5F7D81A3-4BE3-44E8-8477-C082407755F2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e702bd2c4b4421dd60982e9c7ded3a14%7C7a911832c6d0456dafc20aaee4c94572%7C82769ce4-ee63-4e22-8da7-ac6e978ae119&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.30-16.34.36:363][797]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.05.30-16.34.36:364][797]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.05.30-16.34.36:365][797]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.05.30-16.34.36:366][797]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.05.30-16.34.36:366][797]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.05.30-16.34.36:367][797]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.05.30-16.34.36:367][797]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.05.30-16.34.36:367][797]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.05.30-16.34.36:367][797]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.30-16.34.36:367][797]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.30-16.34.36:367][797]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.30-16.34.36:367][797]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.30-16.34.36:367][797]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.30-16.34.36:367][797]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.30-16.34.36:367][797]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.30-16.34.36:369][797]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.30-16.34.36:369][797]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.30-16.34.36:369][797]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.30-16.34.36:370][797]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.30-16.34.36:370][797]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.30-16.34.36:370][797]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.30-16.34.36:370][797]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.30-16.34.36:370][797]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.30-16.34.36:370][797]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.30-16.34.36:370][797]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.30-16.34.36:370][797]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.30-16.34.36:370][797]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.30-16.34.36:371][797]LogD3D11RHI: Shutdown
+[2020.05.30-16.34.36:371][797]LogD3D11RHI: CleanupD3DDevice
+[2020.05.30-16.34.36:371][797]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.30-16.34.36:371][797]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.30-16.34.36:371][797]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.30-16.34.36:471][797]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.30-16.34.36:479][797]LogExit: Exiting.
+[2020.05.30-16.34.36:493][797]Log file closed, 05/30/20 12:34:36
